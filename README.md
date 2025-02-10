@@ -218,4 +218,4 @@ The executable file PDB-BRE-ProSeqLabel is used to extract the protein sequence 
 
 
 ### **2.3 Citation**
-PDB-BRE: a ligand-protein interaction binding residue extractor based on Protein Data Bank. 2023.
+PDB-BRE: a ligand-protein interaction binding residue extractor based on Protein Data Bank. Proteins: Structure, Function, and Bioinformatics. 2024, 92(1): 145-153.
